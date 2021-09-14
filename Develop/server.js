@@ -72,4 +72,4 @@ app.delete('/api/notes/:id', (req, res) => {
     res.json(true);
 });
 
-app.listen(PORT);
+app.listen(PORT, () => console.log('Connected to port 3001!'));
