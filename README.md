@@ -41,7 +41,7 @@ To run on local host
 node server.js
 ```
 
-To run on Heroku <br>
+**Run on Heroku** <br>
 * Application deployed at live URL: https://note-taker-app-ver01.herokuapp.com/
 
 ## Contributing
@@ -61,6 +61,6 @@ If you have any question about the application, feel free to contact me on GitHu
 
 * Github: https://github.com/jamesgli520/Note_Taker_With_Express
 
-* Email:   * Email: mailto.jamesgli@gmail.com
+* Email: mailto.jamesgli@gmail.com
 
 
