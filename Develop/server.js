@@ -4,7 +4,7 @@ const DB = require('./db/db.json');
 //work with file system on your computer
 const fs = require('fs');
 
-const PORT = process.env.port || 3001;
+const PORT = process.env.PORT || 3001;
 
 var IDofNote = 1;
 
